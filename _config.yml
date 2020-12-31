@@ -36,7 +36,6 @@ launch_date:	  2020-12-25
 copyright:      "&#x2117; &amp; &#xA9; 2020"
 email: threedesithings@gmail.com
 
-podcast-feed:			"https://nullpointers.io/feed/podcast.rss"
 apple-podcasts-feed:	"https://podcasts.apple.com/us/podcast/three-desi-things/id1546558771"
 spotify-podcasts-feed:	"https://open.spotify.com/show/6X2km5VppEVYIdVjExWlgt?si=x3be9oJZRYKjfDxp_tTPhQ"
 overcast-podcasts-feed:	"https://overcast.fm/itunes1512641994/null-pointers"
@@ -66,7 +65,6 @@ footer-links:
   twitter: threedesithings
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
 
