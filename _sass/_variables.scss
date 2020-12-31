@@ -1,0 +1,28 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #262626;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+$pink: rgba(238,57,104,1);
+$purple:  rgba(102,54,149,1);
+
+// Font stacks
+$anaheim: "Anaheim";
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

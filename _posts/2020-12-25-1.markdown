@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2020-12-26 00:00:00
+
+title: 			"#1: Gin and tonics, the world&rsquo;s first vaccines in India and why hill stations exist"
+url:        "1"
+subtitle: 	""
+summary: 		"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?"
+
+description: 	"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?
+
+Come along with us on this journey of unknown stories from India and South Asia."
+
+type:			full # "trailer" or "full"
+duration: 		"46:24" # audio length in min
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/multi?playlist=http%3A%2F%2Fplaylist.podbean.com%2F10516207%2Fplaylist_multi.xml&amp;vjs=1&amp;size=430&amp;skin=2&amp;episode_list_bg=%23ffffff&amp;bg_left=%23000000&amp;bg_mid=%230c5056&amp;bg_right=%232a1844&amp;podcast_title_color=%23c4c4c4&amp;episode_title_color=%23ffffff&amp;auto=0&amp;share=1&amp;fonts=Helvetica&amp;download=1&amp;rtl=0&amp;show_playlist_recent_number=10"
+---
+
+{{page.description}}
+
+<!-- Links:
+
+- [Troy Hunts Blogseries on IoT](https://www.troyhunt.com)
+- [Microsoft Ugly Sweaters](https://gear.xbox.com/pages/windows?ocid=Evergreen_soc_omc_xbo_tw_Photo_buy_HolidaySweater) 
+- [Martin Woodward Tree Lighting IoT](https://twitter.com/martinwoodward/status/1337434936769437696) 
+- [Meadow](https://www.wildernesslabs.co/)
+- [Lidl Christmas Lights](https://allhomecinema.com/review-lidl-smart-home-starter-set-and-smart-christmas-lighting/)
+- [Wim Hof aka The Ice Man](https://www.wimhofmethod.com/)
+- [Real World Functional Programming](https://www.manning.com/books/real-world-functional-programming)
+ -->
+Tune in and leave us a comment on [Twitter](https://twitter.com/threedesithings).

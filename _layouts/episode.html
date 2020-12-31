@@ -1,0 +1,25 @@
+---
+layout: default
+---
+		
+<article id="episode--content">
+	
+	<div class="container">
+
+		<h1 id="page--content--title" class="episode__title"><strong>{{ page.title }}</strong></h1>
+			
+		<section id="episode--main--content">
+			<h2 class="page--post-content--title">In this episode</h2>
+			{{ content }}
+		</section>
+
+		<aside id="episode--content--metadata">
+			<p class="page--item-metadata"><strong>Duration</strong> {{ page.duration | replace: ':', ' mins, ' | append: ' secs' }}</p>
+			<p class="page--item-metadata"><strong>Released</strong> {{ page.date | date: "%B %d, %Y" }} </p>
+		</aside>
+
+	</div>
+
+</article>
+
+{% include podcast-player.html %}
