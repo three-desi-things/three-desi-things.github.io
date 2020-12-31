@@ -9,7 +9,7 @@ summary: 		"Did you know that the gin and tonic was invented in India? Or that t
 
 description: 	"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?
 
-Come along with us on this journey of unknown stories from India and South Asia."
+Come along with us on this journey of lesser-known stories from India and South Asia."
 
 type:			full # "trailer" or "full"
 duration: 		"46:24" # audio length in min

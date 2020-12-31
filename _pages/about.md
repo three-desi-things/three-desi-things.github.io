@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Saurabh Datar
 
-Saurabh Datar is an award-winning journalist, developer, and a history buff. He has worked with the [Boston Globe](globe.com), [Atlanta Journal-Constitution](ajc.com) and Mid-day, Mumbai. SHe has been obsessed with facts and telling stories since middle school.
+Saurabh Datar is an award-winning journalist, developer, and a history buff. He has worked with the [Boston Globe](globe.com), [Atlanta Journal-Constitution](ajc.com) and Mid-day, Mumbai. He has been obsessed with facts and telling stories since middle school.
 
 ### Geetika Kalloo
 
