@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Saurabh Datar
 
-Saurabh Datar is an award-winning journalist, developer, and a history buff. He has worked with the Boston Globe, Atlanta Journal-Constitution and Mid-day. Since middle school he has been obsessed with facts and telling stories.
+Saurabh Datar is an award-winning journalist, developer, and a history buff. He has worked with the [Boston Globe](globe.com), [Atlanta Journal-Constitution](ajc.com) and Mid-day, Mumbai. SHe has been obsessed with facts and telling stories since middle school.
 
 ### Geetika Kalloo
 
@@ -19,7 +19,11 @@ Geetika Kalloo is an epidemiologist and is looking forward to a time when people
 
 ### Veda Shastri
 
-Veda Shastri is an award-winning journalist whose work has appeared in the New York Times, National Geographic, and the Juggernaut.
+Veda Shastri is an independent documentary filmmaker, video producer and immersive journalist. She is a contributing producer for Immersive Experiences at National Geographic.
+
+She was earlier a staff video journalist and producer for The New York Times in New York. Veda has produced over 100 virtual reality stories and short documentaries for the New York Times, from the nuclear power plant in Fukushima, inside a Black Hawk in Puerto Rico, the lava fields of Iceland, and on Mauna Loa Volcano in Hawaii.
+
+For her work at the NYTimes, she has won an Online Journalism Award and an Edward R. Murrow Award.
 
 ## Socials!
 
@@ -29,4 +33,4 @@ Twitter - [threedesithings](https://www.twitter.com/threedesithings)
 
 Logo by [Namaah Kumar](https://www.behance.net/DearAnyone)
 
-[Podcast Music by Mayuresh Adhikari of Woodstock Studios, Mumbai](http://www.woodstockstudios.in/). 
+Podcast music by Mayuresh Adhikari, [Woodstock Studios, Mumbai](http://www.woodstockstudios.in/). 

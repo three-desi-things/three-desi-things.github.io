@@ -42,6 +42,22 @@ body {
   font-size: 3.4rem;
 }
 
+
+.intro__subscribe {
+  display: flex;
+  margin: 1rem auto;
+  flex-wrap: wrap;
+
+  .intro__subscribe--item {
+    margin: 1rem 0.5rem;
+    
+    img {
+      height: 55px
+    }
+  }
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Libre Baskerville', serif;
   color: $darkerGray;
@@ -1173,6 +1189,17 @@ Modules - reusable parts of our design
 
 .episode__title {
   font-size: 2em;
+  line-height: 1.5;
+  max-width: 55rem;
+  margin: 0 auto;
+}
+
+.episode__content {
+  font-size: 1rem;
+}
+
+.episode__info {
+  font-size: 1rem;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

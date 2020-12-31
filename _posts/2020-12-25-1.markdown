@@ -23,14 +23,5 @@ player_link: "https://www.podbean.com/media/player/multi?playlist=http%3A%2F%2Fp
 
 {{page.description}}
 
-<!-- Links:
 
-- [Troy Hunts Blogseries on IoT](https://www.troyhunt.com)
-- [Microsoft Ugly Sweaters](https://gear.xbox.com/pages/windows?ocid=Evergreen_soc_omc_xbo_tw_Photo_buy_HolidaySweater) 
-- [Martin Woodward Tree Lighting IoT](https://twitter.com/martinwoodward/status/1337434936769437696) 
-- [Meadow](https://www.wildernesslabs.co/)
-- [Lidl Christmas Lights](https://allhomecinema.com/review-lidl-smart-home-starter-set-and-smart-christmas-lighting/)
-- [Wim Hof aka The Ice Man](https://www.wimhofmethod.com/)
-- [Real World Functional Programming](https://www.manning.com/books/real-world-functional-programming)
- -->
-Tune in and leave us a comment on [Twitter](https://twitter.com/threedesithings).
+Listen and send your comments on [email](mailto:threedesithings@gmail.com) or on [Twitter](https://twitter.com/threedesithings)!
