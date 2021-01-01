@@ -14,7 +14,7 @@ Saurabh Datar is an award-winning journalist, developer, and a history buff. He 
 
 ### Geetika Kalloo
 
-Geetika Kalloo is an epidemiologist and is looking forward to a time when people no longer know what an epidemiologist means. Besides having completed her PhD from Brown University, she&mdash;s a huge trivia and Bollywood nerd. Her biggest regret is that she never got to be on Jeopardy! for Alex Trebek.
+Geetika Kalloo is an epidemiologist and is looking forward to a time when people no longer know what an epidemiologist means. She completed her PhD from Brown University in 2019 and is a huge trivia and Bollywood nerd. Her biggest regret is that she never got to be on <em>Jeopardy!</em> with Alex Trebek.
 
 
 ### Veda Shastri
@@ -25,12 +25,18 @@ She was earlier a staff video journalist and producer for The New York Times in 
 
 For her work at the NYTimes, she has won an Online Journalism Award and an Edward R. Murrow Award.
 
-## Socials!
+## Contact Us!
 
-Twitter - [threedesithings](https://www.twitter.com/threedesithings)
+[Instagram](https://instagram.com/threedesithings)
+
+[Twitter](https://www.twitter.com/threedesithings)
+
+[Email](mailto:threedesithings@gmail.com)
 
 ### Credits
 
 Logo by [Namaah Kumar](https://www.behance.net/DearAnyone)
 
-Podcast music by Mayuresh Adhikari, [Woodstock Studios, Mumbai](http://www.woodstockstudios.in/). 
+Podcast music by Mayuresh Adhikari, [Woodstock Studios, Mumbai](http://www.woodstockstudios.in/)
+
+Website adapted from code by [nullpointers.io](https://nullpointers.io/)

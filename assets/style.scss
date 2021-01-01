@@ -1202,6 +1202,16 @@ Modules - reusable parts of our design
   font-size: 1rem;
 }
 
+
+.about__social {
+  background-color: #000;
+  padding: 1rem 0;
+}
+
+.about-icon {
+  fill: #fff;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
