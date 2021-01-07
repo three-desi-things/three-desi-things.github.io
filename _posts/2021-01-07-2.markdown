@@ -1,0 +1,28 @@
+---
+layout:         episode
+date: 			2021-01-07 11:00:00
+
+title: 			"#2: Jewish origins of Bollywood, an African military commander in 17<sup>th</sup> century India, and millets"
+url:        "2 - jewish-bollywood-african-military-commander-millets"
+subtitle: 	""
+summary: 		"Did you know that the first female superstars of the Bollywood were from the Jewish community? Or how an African slave became a military mastermind in 17th century India? We also talk about how the way India's diet changed in the 1960s and how it&rsquo;s affecting people&rsquo;s lives now."
+
+description: 	"Did you know that the first female superstars of the Bollywood were from the Jewish community? Or how an African slave became a military mastermind in 17th century India? We also talk about how the way India's diet changed in the 1960s and how it's affecting people&rsquo;s lives now."
+
+type:			full # "trailer" or "full"
+duration: 		"44:29" # audio length in min
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/zvih2-f6f016?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
+
+
+---
+
+{{page.description}}
+
+
+
+Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!

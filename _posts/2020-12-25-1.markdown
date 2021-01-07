@@ -3,7 +3,7 @@ layout:         episode
 date: 			2020-12-25 11:00:00
 
 title: 			"#1: Gin and tonics, the world&rsquo;s first vaccines in India and why hill stations exist"
-url:        "1"
+url:        "1 - gin-and-tonic-vaccine-in-india-hill-stations"
 subtitle: 	""
 summary: 		"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?"
 
@@ -18,11 +18,11 @@ explicit: 		"no" # other option is yes
 
 block: 			"no" # means is shown in iTunes
 
-player_link: "https://www.podbean.com/media/player/multi?playlist=http%3A%2F%2Fplaylist.podbean.com%2F10516207%2Fplaylist_multi.xml&amp;vjs=1&amp;size=430&amp;skin=2&amp;episode_list_bg=%23ffffff&amp;bg_left=%23000000&amp;bg_mid=%230c5056&amp;bg_right=%232a1844&amp;podcast_title_color=%23c4c4c4&amp;episode_title_color=%23ffffff&amp;auto=0&amp;share=1&amp;fonts=Helvetica&amp;download=1&amp;rtl=0&amp;show_playlist_recent_number=10"
+player_link: "https://www.podbean.com/media/player/f6yi4-f5e3f8?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
 ---
 
 {{page.description}}
 
 
 
-Listen and send your comments on [email](mailto:threedesithings@gmail.com) or on [Twitter](https://twitter.com/threedesithings)!
+Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
