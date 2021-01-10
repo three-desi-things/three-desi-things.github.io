@@ -9,17 +9,22 @@ layout: default
 		<h1 id="page--content--title" class="episode__title"><strong>{{ page.title }}</strong></h1>
 			
 		<section id="episode--main--content" class="episode__content">
+
+			{% include podcast-player.html %}
+
+			<aside id="episode--content--metadata" class="episode__info">
+				<p class="page--item-metadata"><strong>Duration</strong> {{ page.duration | replace: ':', ' mins, ' | append: ' secs' }}</p>
+				<p class="page--item-metadata"><strong>Released</strong> {{ page.date | date: "%B %d, %Y" }} </p>
+			</aside>
+
+			<h4 class="episode__share">Send your comments on <a href="mailto:threedesithings@gmail.com">email</a>, <a href="https://instagram.com/threedesithings">Instagram</a> or <a href="https://twitter.com/threedesithings">Twitter</a>!</h4>
+
 			<h3 class="page--post-content--title">In this episode</h3>
+
 			{{ content }}
 		</section>
-
-		<aside id="episode--content--metadata" class="episode__info">
-			<p class="page--item-metadata"><strong>Duration</strong> {{ page.duration | replace: ':', ' mins, ' | append: ' secs' }}</p>
-			<p class="page--item-metadata"><strong>Released</strong> {{ page.date | date: "%B %d, %Y" }} </p>
-		</aside>
 
 	</div>
 
 </article>
 
-{% include podcast-player.html %}

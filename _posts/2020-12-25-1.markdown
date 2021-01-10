@@ -7,7 +7,7 @@ url:        "1 - gin-and-tonic-vaccine-in-india-hill-stations"
 subtitle: 	""
 summary: 		"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?"
 
-description: 	"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?
+excerpt: 	"Did you know that the gin and tonic was invented in India? Or that two Indian queens posed for the first ever poster to promote vaccines? Or the story of how the British built towns to escape heat and disease?
 
 Come along with us on this journey of lesser-known stories from India and South Asia."
 
@@ -23,6 +23,33 @@ player_link: "https://www.podbean.com/media/player/f6yi4-f5e3f8?from=pb6admin&do
 
 {{page.description}}
 
+<h4 class="fact__hed">Gin and tonic</h4>
+
+I’ve always been curious about the Indian branding around many popular gins and tonics (e.g. Bombay sapphire, Premium Indian Tonic Water), so when I had to pick my first fact for the podcast, I decided to see if this hunch that G&Ts were linked to India had any legs. Turns out I was right! 
+
+Gin and tonics were originally created as a vehicle to deliver the [malaria preventative drug quinine](https://www.mcgill.ca/oss/article/did-you-know/malaria-reason-behind-gin-and-tonic#:~:text=There%20is%20some%20good%20news,main%20component%20of%20tonic%20water!&text=So%2C%20in%20the%201800s%2C%20soldiers,classic%20(and%20my%20favourite!)) to British officers during the Raj. Colonial soldiers, for all their bravado, just couldn’t stomach the bitter quinine. But adding some lime and a splash of sweet and fizzy tonic water seemed to do the trick. Maybe add to that some [ice imported from lakes around Boston](https://www.wired.com/2010/09/0913calcutta-ice-ship/) and voila! You have an anti-malarial cocktail.
+
+If you&rsquo;re interested in how they actually transported ice on ships, an 1836 article from _Mechanics Magazine_ [has the deets!](https://www.todayinsci.com/T/Tudor_Frederic/IceTradeAmericaToIndia.htm). 
 
 
-Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
+The IPA (India Pale Ale) is also a result of the British colonial rule. The extra hops in the beer preserved it to [survive the journey from the UK](https://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks#:~:text=So%20what%20is%20IPA%3F,month%20journey%20from%20Britain%20intact). Another delightful beverage is born.
+
+— Geetika
+
+<h4 class="fact__hed">Hill stations</h4>
+
+In the days of colonial British Raj, the hill station of Landour served as a sanatorium for British soldiers suffering from malaria. The idea being that if British soldiers could get far enough away from the heat of the plains, they would recover faster from the disease and be less likely to contract new infections. Neither of these were based in any scientific fact, but it led to the creation of [amazing vacation communities](http://southasia.ucla.edu/hill-stations-pinnacles-raj/) for the British soldiers.
+
+Indians, to this day, continue to go to these hill stations in summer. And like any place that has Indians/South Asians, these hill stations have delicious food. For those who wish to drool (also us), here&rsquo;s the [amazing Landour Bakehouse](https://homegrown.co.in/article/801499/a-mussoorie-bakehouse-uses-century-old-recipes-from-the-british-era) and the [Landour Community Cookbook](https://www.goodreads.com/book/show/475179.Landour_Cookbook), a recipe book that is a fusion of Indian, American, and European flavors. And an [adorable website](https://people.virginia.edu/~pm9k/59/landourcookbook.html) that links to different versions of this cookbook. The site is maintained by Phillip McEldowney of the Class of 59 of the famous [Woodstock School, Mussoorie](https://www.woodstockschool.in/)
+
+Also, [R.I.P Tom Alter](https://en.wikipedia.org/wiki/Tom_Alter). 
+— Veda
+
+<h4 class="fact__hed">The world&rsquo;s first vaccine poster</h4>
+
+I read this [amazing BBC story](https://www.bbc.com/news/world-asia-india-53944723) of how two Indian queens posed for the world&rsquo;s first ever vaccine ad and I knew I had to talk about it for the podcast. The article also mentions how an arm to arm transfer was used to vaccinate people in the 1800s. Imagine if we had to d that for coronavirus!
+
+If you, like me, did not believe the _tika_ story, Dr. Siddhartha Mukherjee wrote about it [in the New Yorker](https://www.newyorker.com/magazine/2020/04/06/how-does-the-coronavirus-behave-inside-a-patient).
+
+— Saurabh
+
