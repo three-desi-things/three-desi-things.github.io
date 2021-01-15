@@ -1,0 +1,28 @@
+---
+layout:         episode
+date: 			2021-01-14 11:00:00
+
+title: 			"#3: A rebel queen from Tamil Nadu, English words that are not really English, and how the British got desis addicted to chai"
+url:        "3 - queen-english-not-english-chai"
+subtitle: 	""
+summary: 		"Did know that the phrase “dam it” or the word shampoo has its roots in colonial India? Ever heard of Velu Nachiyar, the first queen in the subcontinent to wage war against the British? We also explore how chai came to India and how the desis got addicted to it."
+
+description: 	"Did know that the phrase “dam it” or the word shampoo has its roots in colonial India? Ever heard of Velu Nachiyar, the first queen in the subcontinent to wage war against the British? We also explore how chai came to India and how the desis got addicted to it."
+
+type:			full # "trailer" or "full"
+duration: 		"51:42" # audio length in min
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/fvj5g-f7964c?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"
+
+
+---
+
+{{page.description}}
+
+
+
+Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
