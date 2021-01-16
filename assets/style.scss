@@ -94,11 +94,22 @@ h2 {
 
 .post {
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin: 2em 0 1em 0;
     border-top: 2px solid #d3d3d3; 
     padding-top: 1em;
+    line-height: 1.6;
   }
+}
+
+.post:first-of-type {
+  h1 {
+    border: none;
+  }
+}
+
+.post__list {
+  margin-top: 1em;
 }
 
 @media (min-width: 769px){
@@ -502,13 +513,12 @@ body:after {
     z-index: 1000;
 }
 
-.post h1{
+.post h1 {
   font-family: 'Libre Baskerville', serif;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
-  line-height: 1.2;
 }
 
 .page h1{
