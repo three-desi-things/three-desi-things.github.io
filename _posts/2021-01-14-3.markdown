@@ -16,7 +16,7 @@ explicit: 		"no" # other option is yes
 
 block: 			"no" # means is shown in iTunes
 
-player_link: "https://www.podbean.com/media/player/fvj5g-f7964c?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"
+player_link: "https://www.podbean.com/media/player/fvj5g-f7964c?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
 
 
 ---
