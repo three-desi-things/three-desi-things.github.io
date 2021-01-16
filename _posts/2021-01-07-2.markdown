@@ -23,6 +23,36 @@ player_link: "https://www.podbean.com/media/player/zvih2-f6f016?from=pb6admin&do
 
 {{page.description}}
 
+<h2 class="fact__hed">Jewish origins of Bollywood</h2>
+
+As always, I was browsing Amazon Prime and Netflix looking for good desi content to watch on a Friday night. Somehow I landed on [Shalom Bollywood](https://www.menemshafilms.com/shalom-bollywood) by Danny Ben-Moshe. And what a find it was! I was fascinated by these pathbreaking women – Sulochana, Pramila, Nadira – and what they accomplished. 
+
+While researching further, I also learned that the [first ever talkie](https://en.wikipedia.org/wiki/Alam_Ara) produced by the Hindi film industry was also written by a Jewish writer, David Joseph Penkar.
+
+Here’s Sulochana in a movie poster.
+
+![Sulochana movie poster](../../assets/sulochana.jpg){:class="fact__inline-img"}
+
+The Jewish virtual library has a cool timeline of the [Jewish community in the Indian subcontinent](https://www.jewishvirtuallibrary.org/india-virtual-jewish-history-tour.). I also found this piece on [Baghdadi Jewish women in India](https://jwa.org/encyclopedia/article/baghdadi-jewish-women-in-india)quite informative. 
 
 
-Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
+Oh, if you’re from Mumbai or have been there, you may have noticed the gorgeous [David Sassoon library building](https://davidsassoonlibrary.com/), which is named after the Baghdadi Jewish philanthropist. 
+
+— Saurabh
+
+<h2 class="fact__hed">Jewish origins of Bollywood</h2>
+
+This summer’s Black Lives Matter protests got me thinking about anti-Blackness in the South Asian community. This exploration of our community’s racism led me back to the 1600s, where I was introduced to the [exceptional Malik Ambar](https://indianexpress.com/article/research/malik-ambar-aurangabad-mughals-jahangir-akbar-shivaji-6397143/), who rose from being an enslaved man to become a [great military leader](https://journals.sagepub.com/doi/abs/10.1177/0971945820959897?journalCode=mhja), regent to a king, and a champion of the arts. 
+
+![Malik Ambar painting](../../assets/ambar_600.jpg){:class="fact__inline-img fact__inline-img--small"}
+
+A little bemused that I’d never heard of African people in India, I delved further into Ambar’s history. Not only had this man risen out of slavery, but he was also a formidable military strategist whose guerilla army the Mughal Emperor Jahangir was never able to defeat. 
+
+He inspired later rebellions against the Mughals, including those led by the [Maratha king Shivaji (pdf)](https://libres.uncg.edu/ir/uncg/f/O_Ali_MalikAmbar_2011.pdf). We discuss this and what happened to the descendants of the enslaved African people in this episode. 
+
+— Geetika
+
+<h2 class="fact__hed">Millets</h2>
+We now think of rice and wheat as dominant in the Indian food diet. But before the Green Revolution of the 1960s in India, millets, coarse grains or cereal crops, were a major staple of the diet in central, southern India and parts of the north, and [40 percent of all cultivated grains](https://www.thehindu.com/sci-tech/agriculture/take-a-grain-check-theres-more-to-the-indian-diet-than-polished-rice-and-wheat/article22429984.ece) in the country.
+
+I read an article about climate change and rainfall, and the increasing issues about water availability for agriculture in India. In the piece, it noted that a move towards millets [could help Indian farmers](https://www.livemint.com/Leisure/o4kfYaS3XMDDJhqgmObd3L/Why-should-we-eat-millets.html) because the crop uses a lot less groundwater, and is also nutritionally valuable. I became curious and started reading more — and realized how [increasing millet production](https://www.livemint.com/Leisure/o4kfYaS3XMDDJhqgmObd3L/Why-should-we-eat-millets.html) would actually be a return to many indigenous diets in the region.
