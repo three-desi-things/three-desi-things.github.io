@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-01-28 11:00:00
+
+title: 			"#4: Bollywood-Hollywood &ldquo;inspirations&rdquo;, the world&rsquo;s first female head of state, and samosas"
+url:        "4 - queen-english-not-english-chai"
+subtitle: 	""
+summary: 		"Did you know Tarantino took inspiration from an Indian film for Kill Bill Vol. 1? Or that the world's first female head of state was from South Asia? Or the samosa, the quintessential Indian snack, is not actually Indian?
+
+We talk about all of that on episode #4 of Three Desi Things."
+
+description: 	"Did you know Tarantino took inspiration from an Indian film for Kill Bill Vol. 1? Or that the world's first female head of state was from South Asia? Or the samosa, the quintessential Indian snack, is not actually Indian?
+
+We talk about all of that on episode #4 of Three Desi Things."
+
+type:			full # "trailer" or "full"
+duration: 		"49:32" # audio length in min
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/6bb98-f8dcf4?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
+
+
+---
+
+{{page.description}}
+
+
+
+Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
