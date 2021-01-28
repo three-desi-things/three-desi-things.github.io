@@ -23,6 +23,27 @@ player_link: "https://www.podbean.com/media/player/fvj5g-f7964c?from=pb6admin&do
 
 {{page.description}}
 
+<h2 class="fact__hed">English words that are desi, Asian, anything but English</h2>
+
+Ever watched _Lagaan_ and thought to yourself, “I wonder how Captain Russell learned to speak Hindi?” I’ve always wondered if the Brits had any reference material when they landed in India. It turns out they did — two British men in India, Sir Henry Yule and Arthur Coke Burnell, took it upon themselves to create a historical dictionary of Anglo-Indian words and terms from Indian languages which came into use during the British rule in India. 
+
+Basically, these were commonly used Indian words that they thought would be helpful to the British officers, and many of these are commonly used in English today. One of my favorites is the phrase “I don’t give a dam,” which comes from the saying “I don’t give a _damri_.” The damri is a small denomination coin, so essentially the person was saying that they didn’t give the smallest amount of money they could fathom! 
+
+There are a bunch of other words that the subcontinent gave to the English language. Some of them can be found in this [BBC article](https://www.bbc.com/news/magazine-18796493) and this piece in [_The Wire_](https://thewire.in/books/hobson-jobson-dictionary-represents-multiplicity-india). This [research paper](https://www.researchgate.net/publication/275002387_A_Much_Tortured_Expression_A_New_Look_at_%27Hobson-Jobson%27) is also fascinating.
+
+The dictionary itself is available in online thanks to this [University of Chicago website](https://dsalsrv04.uchicago.edu/dictionaries/hobsonjobson/). It even has a search feature. Explore away!
+
+— Geetika
+
+<h2 class="fact__hed">The rebel queen of Tamil Nadu</h2>
+
+An 18th century Tamil Queen, Velu Nachiyar, in 1780, was the first Indian queen to [successfully fight the British](https://feminisminindia.com/2018/10/17/velu-nachiyar-queen-freedom-struggle/) and regain her kingdom. This happened decades before the 1857 rebellion, the first big concerted effort against the British Raj. Nachiyar lost her kingdom after her husband was killed by the British and the kingdom refused to pay tax to the British East India Company. The battle to regain the kingdom included a [suicide bombing planned](https://www.thehindubusinessline.com/blink/cover/veeramangai-velu-nachiyar/article26016399.ece) and executed by the commander of the army, Kuyili, a Dalit woman. 
+
+Here is another [research paper on her](https://www.researchgate.net/publication/342313674_QUEEN_VELU_NACHIYAR_FIRST_WOMEN_AGAINST_BRITISH).
+
+Another cool queen, this time from the southern state of Karnataka. Rani Chennamma, or Kittur Chennama, [fought and defeated the British](https://pib.gov.in/newsite/printrelease.aspx?relid=148944) in defiance of the doctrine of lapse. She is a celebrate folk heroine and has, like Velu Nachiyar, had a postage stamp released in her honor. 
+
+And in addition to a university and a train that are named after her, a warship on the science fiction show _[The Expanse]_(https://expanse.fandom.com/wiki/Kittur_Chennamma#Trivia) also bore her name. Who knew!
 
 
 Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
