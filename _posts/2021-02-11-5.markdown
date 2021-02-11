@@ -5,13 +5,13 @@ date: 			2021-02-11 11:00:00
 title: 			"#5: In Dialogue with Krish Ashok, the author of Masala Lab, a book on the science behind desi cooking"
 url:        "5 - krish-ashok-masala-lab"
 subtitle: 	""
-summary: 		"Introducing our “In Dialogue” series! This is a little different than our usual episodes. In these episodes, we'll interview experts, authors and generally cool desis about things that interest them!
+summary: 		"Introducing our “In Dialogue” series! This is a little different than our usual episodes. In these episodes, we'll interview experts, authors and generally cool desis about things that interest them! \n
 
-In this episode, we speak to Krish Ashok, the author of “Masala Lab”, a fascinating new book that documents the science behind Indian/South Asian cooking. Plus, Ashok comes armed with a bunch of interesting desi food facts."
+Our first guest is Krish Ashok, the author of _Masala Lab_."
 
-description: 	"Introducing our “In Dialogue” series! This is a little different than our usual episodes. In these episodes, we'll interview experts, authors and generally cool desis about things that interest them!
+description: 	"Introducing our “In Dialogue” series! This is a little different than our usual episodes. In these episodes, we'll interview experts, authors and generally cool desis about things that interest them! \n
 
-In this episode, we speak to Krish Ashok, the author of “Masala Lab”, a fascinating new book that documents the science behind Indian/South Asian cooking. Plus, Ashok comes armed with a bunch of interesting desi food facts."
+Our first guest is Krish Ashok, the author of _Masala Lab_."
 
 type:			full # "trailer" or "full"
 duration: 		"49:32" # audio length in min
@@ -20,16 +20,16 @@ explicit: 		"no" # other option is yes
 
 block: 			"no" # means is shown in iTunes
 
-player_link: "https://www.podbean.com/media/player/6bb98-f8dcf4?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
+player_link: "https://www.podbean.com/media/player/kvsqw-fa6755?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
 
 
 ---
 
 {{page.description}}
 
-Today we embark on a new type of episode for Three Desi Things. We’re calling this our ‘In Dialoguee’ series. We will be interviewing authors, experts, and generally cool desis about the things that interest them the most and the stories that they want to tell. 
+<h2 class="fact__hed">“Burn the recipe”</h2>
 
-In this episode, we explore the science behind Indian cooking with Krish Ashok, an author, blogger, techie, and self-proclaimed science nerd. Ashok’s new book, [_Masala Lab_](https://www.amazon.com/Masala-Lab-Science-Indian-Cooking/dp/0143451375), is a fascinating take on documenting the subcontinent&rsquo;s rich food heritage using scientific techniques.
+In this episode, we explore the science behind Indian cooking with the author, blogger, techie, and self-proclaimed science nerd. His new book, [_Masala Lab_](https://www.amazon.com/Masala-Lab-Science-Indian-Cooking/dp/0143451375), is a fascinating take on documenting the subcontinent&rsquo;s rich food heritage using scientific techniques.
 
 
 We discuss the idea of “burning the recipe” and using chemistry, the love of cooking, and trusting your tastebuds to produce culinary masterpieces. We delve deep into the science of kitchen “hacks” that our mothers have been using for ages, the many uses for Taco Bell fire sauce, and Veda’s favorite topic – MILLETS! 
