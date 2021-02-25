@@ -122,6 +122,30 @@ h2 {
   margin-top: 1em;
 }
 
+.episode__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: space-evenly;
+  
+  &--episode {
+    width: 45%;
+    margin: 1em;
+
+    h3 {
+      font-size: 1rem;
+    }
+
+    .read-more {
+      font-size: .9rem;
+    }
+
+    .entry {
+      font-size: .9rem;
+    }
+  }
+}
+
 @media (min-width: 769px){
 	.post h2::before, .post h2::after {
 	    content: "";

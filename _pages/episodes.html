@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /episodes/
+title: Episodes
+---
+
+<div class="posts episode__list">
+{% for post in site.posts reversed %}
+  <div class="episode__list--episode">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <h3>{{ post.title }}</h3>
+
+      <!-- <div>
+        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+      </div> -->
+    </a>
+    
+    <div class="entry">{{ post.excerpt }}</div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Go to episode page</a>
+  </div>
+{% endfor %}
+</div>
