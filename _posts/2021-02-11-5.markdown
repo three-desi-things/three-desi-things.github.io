@@ -14,7 +14,7 @@ description: 	"Introducing our “In Dialogue” series! This is a little differ
 Our first guest is Krish Ashok, the author of _Masala Lab_."
 
 type:			full # "trailer" or "full"
-duration: 		"49:32" # audio length in min
+duration: 		"56:40" # audio length in min
 
 explicit: 		"no" # other option is yes
 
