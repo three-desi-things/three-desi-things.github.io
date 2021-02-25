@@ -1,0 +1,24 @@
+---
+layout:         episode
+date: 			2021-02-25 11:00:00
+
+title: 			"#6: The origins of Indo-Chinese food, Punjabi-Mexicans, and an Indian spy who fought the Nazis"
+url:        "6 - chinese-punjabi-noor"
+subtitle: 	""
+summary: 		"We look at the origin of Indo-Chinese food and how it is so different from native Chinese cuisines. We talk about the Punjabi-Mexican community of California. And we discover the amazing story of Noor Inayat Khan, an Indian spy who fought the Nazis in Paris."
+
+description: 	"We look at the origin of Indo-Chinese food and how it is so different from native Chinese cuisines. We talk about the Punjabi-Mexican community of California. And we discover the amazing story of Noor Inayat Khan, an Indian spy who fought the Nazis in Paris."
+
+type:			full # "trailer" or "full"
+duration: 		"59:25" # audio length in min
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/wmcvk-fbe848?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
+
+
+---
+
+{{page.description}}
