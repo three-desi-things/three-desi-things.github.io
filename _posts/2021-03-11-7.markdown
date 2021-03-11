@@ -1,0 +1,30 @@
+---
+layout:         episode
+date:           2021-03-11 11:00:00
+
+title:          "#7: In Dialogue with Beth Watkins (@bethlovesbolly), Bollywood blogger, museum professional and film enthusiast"
+url:        "7 - bethlovesbolly"
+subtitle:   ""
+summary:        "Our second in the “In Dialogue” series! Our guest for this week is [Beth Watkins](https://twitter.com/bethlovesbolly), a museum professional and popular Bollywood blogger and film enthusiast."
+
+description:    "Our second in the “In Dialogue” series! Our guest for this week is Beth Watkins, a museum professional and popular Bollywood blogger and film enthusiast."
+
+type:           full # "trailer" or "full"
+duration:       "44:36" # audio length in min
+
+explicit:       "no" # other option is yes
+
+block:          "no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/media/player/tknre-fd3f30?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=2&pfauth=&btn-skin=101"
+
+---
+
+{{page.description}}
+
+<h2 class="fact__hed">Game of Thrones, Bollywood version?</h2>
+Beth is a treasure trove of film trivia and Bollywood films, in general. She goes by [@bethlovesbolly](https://twitter.com/bethlovesbolly) on Twitter. We talk to her about how she got into Bollywood, what one should watch if you want to start watching Bollywood films. And we also play our "Guess the inspiration" game with her.
+
+But most importantly, we talk about her amazing Bollywood family trees &mdash; [the Kapoors](https://drive.google.com/file/d/1VTo3xNbZShKUVUQMsgaxEH2zlnRwGZHz/view), the [Mukherjees](https://drive.google.com/file/d/19tENX-762cSIkZcQrjWmH0TBOhhoIsQu/view), and many others — in which she finds links between several big Bollywood families and dynasties. Also, an intriguing Satyajit Ray connection. 
+
+Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
