@@ -22,9 +22,39 @@ player_link: "https://www.podbean.com/media/player/tknre-fd3f30?from=pb6admin&do
 
 {{page.description}}
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.0/lazysizes.min.js" integrity="sha512-JrL1wXR0TeToerkl6TPDUa9132S3PB1UeNpZRHmCe6TxS43PFJUcEYUhjJb/i63rSd+uRvpzlcGOtvC/rDQcDg==" crossorigin="anonymous"></script>
+
 <h2 class="fact__hed">Game of Thrones, Bollywood version?</h2>
 Beth is a treasure trove of film trivia and Bollywood films, in general. She goes by [@bethlovesbolly](https://twitter.com/bethlovesbolly) on Twitter. We talk to her about how she got into Bollywood, what one should watch if you want to start watching Bollywood films. And we also play our "Guess the inspiration" game with her.
 
-But most importantly, we talk about her amazing Bollywood family trees &mdash; [the Kapoors](https://drive.google.com/file/d/1VTo3xNbZShKUVUQMsgaxEH2zlnRwGZHz/view), the [Mukherjees](https://drive.google.com/file/d/19tENX-762cSIkZcQrjWmH0TBOhhoIsQu/view), and many others — in which she finds links between several big Bollywood families and dynasties. Also, an intriguing Satyajit Ray connection. 
+But most importantly, we talk about her amazing Bollywood family trees &mdash; [the Kapoors](https://drive.google.com/file/d/1VTo3xNbZShKUVUQMsgaxEH2zlnRwGZHz/view), the [Mukherjees](https://drive.google.com/file/d/19tENX-762cSIkZcQrjWmH0TBOhhoIsQu/view), and many others.
+
+For starters, here is the Mukherjee family tree. Notice the links between several big Bollywood families and dynasties. Also, an intriguing Satyajit Ray connection. 
+
+<figure class="figure__full">
+  <picture class="figure__img">
+    <source data-srcset="../../images/mukherjee_1200.jpg" media="(min-width:850px)">
+    <source data-srcset="../../images/mukherjee_900.jpg" media="(min-width:400px)">
+    <source data-srcset="../../images/mukherjee_600.jpg" media="(min-width:1px)">
+    <img class="lazyload" src="../../images/mukherjee_placeholder.jpg"
+      data-srcset="../../images/mukherjee_placeholder.jpg" alt="Kapoor family tree" />
+  </picture>
+  <figcaption class="full__caption">Photo credit: @bethlovesbolly</figcaption>
+</figure>
+
+<br />
+
+As a bonus, here is a Kapoor family tree from an old [Filmfare magazine](https://www.filmfare.com/) that Beth gave us.
+
+<figure class="figure__full">
+  <picture class="figure__img">
+    <source data-srcset="../../images/kapoor-tree-filmfare_1200.jpg" media="(min-width:850px)">
+    <source data-srcset="../../images/kapoor-tree-filmfare_900.jpg" media="(min-width:400px)">
+    <source data-srcset="../../images/kapoor-tree-filmfare_600.jpg" media="(min-width:1px)">
+    <img class="lazyload" src="../../images/kapoor-tree-filmfare_placeholder.jpg"
+      data-srcset="../../images/kapoor-tree-filmfare_placeholder.jpg" alt="Kapoor family tree" />
+  </picture>
+  <figcaption class="full__caption">Photo credit: Filmfare magazine</figcaption>
+</figure>
 
 Listen and send your comments on [email](mailto:threedesithings@gmail.com), [Instagram](https://instagram.com/threedesithings) or on [Twitter](https://twitter.com/threedesithings)!
