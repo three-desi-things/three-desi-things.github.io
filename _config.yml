@@ -20,7 +20,7 @@ avatar: /images/tdt-logo_200.jpg
 og: /images/tdt-logo.jpg
 
 # Do not generate posts/episodes in the future
-future: false
+future: true
 
 #
 # Podcast settings

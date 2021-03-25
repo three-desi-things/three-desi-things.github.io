@@ -1,0 +1,63 @@
+---
+layout:         episode
+date:           2021-03-25 11:00:00
+
+title:          "#8: India&rsquo;s first car, a South Asian goes viral in 50s America, and the origins of bunny chow"
+url:        "8 - ambassador-kuldip-bunny"
+subtitle:   ""
+summary:        "We take a dive into the history of the first car manufactured in India and how it became the king of the Indian roads. We talk about Kuldip Rae Singh, an Indian student in the US who became famous in 1950s America after he stole the show on national television. And our food thing for this episode is the history of South African's favorite snack, bunny chow and its connection to South Asia."
+
+description:    "We take a dive into the history of the first car manufactured in India and how it became the king of the Indian roads. Then we talk about Kuldip Rae Singh, an Indian student in the US who became famous in 1950s America after he stole the show on national television. And our food thing for this episode is the history of South African's favorite snack, bunny chow and its connection to South Asia."
+
+type:           full # "trailer" or "full"
+duration:       "56:17" # audio length in min
+
+explicit:       "no" # other option is yes
+
+block:          "no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/player-v2/?i=qu3yr-fec291-pb&from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Georgia&skin=2&pfauth=&btn-skin=101"
+
+
+---
+
+{{page.description}}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.0/lazysizes.min.js" integrity="sha512-JrL1wXR0TeToerkl6TPDUa9132S3PB1UeNpZRHmCe6TxS43PFJUcEYUhjJb/i63rSd+uRvpzlcGOtvC/rDQcDg==" crossorigin="anonymous"></script>
+
+
+<h2 class="fact__hed">The king of the Indian roads</h2>
+
+Yes, we are talking about Hindustan Motor&rsquo;s [legendary Ambassador](https://en.wikipedia.org/wiki/Hindustan_Ambassador)! The Ambassador was the first car manufactured in India. It was [inspired](https://theprint.in/features/brandma/this-car-was-the-original-ambassador-of-make-in-india/145091/) by the British Morris Oxford Series III cars and went on rule the Indian roads for decades.
+
+This diesel beast was huge in size and was able to seat seven people — pretty impressive for a sedan. In the 70s and 80s it was used for [car rallies](https://www.carandbike.com/news/hindustan-ambassador-a-brief-history-1659004).
+
+<figure class="figure__full">
+  <picture class="figure__img">
+    <source data-srcset="../../images/ambassador_1200.jpg" media="(min-width:850px)">
+    <source data-srcset="../../images/ambassador_900.jpg" media="(min-width:400px)">
+    <source data-srcset="../../images/ambassador_600.jpg" media="(min-width:1px)">
+    <img class="lazyload" src="../../images/ambassador_placeholder.jpg"
+      data-srcset="../../images/ambassador_placeholder.jpg" alt="Kapoor family tree" />
+  </picture>
+  <figcaption class="full__caption">Photo credit: Wikipedia</figcaption>
+</figure>
+
+But of course, it was also the quintessential vehicle for every government official and minister. For several decades the Indian government did not allow any other vehicle to be purchased. But as the economy opened up in the 90s and cheaper, more fuel efficient cars became available, the "Amby" [fell on hard times](https://www.nytimes.com/1999/03/04/business/icon-falls-hard-times-india-ambassador-car-fights-survive-competition.html) and eventually stopped production in 2014. The BBC even [carried an epitaph](https://www.bbc.com/news/magazine-28085095) with hilarious anecdotes about its design quirks.
+
+Hindustan Motors eventually sold the brand to Peugeot in 2017. While it's not being manufactured yet, there are concepts for making it an [electric vehicle](https://auto.hindustantimes.com/auto/cars/the-first-made-in-india-car-gets-a-electric-makeover-in-this-concept-design-41585896364179.html).
+
+— Veda
+
+<h2 class="fact__hed">A South Asian TV star in 1950s America</h2>
+We explore the fascinating story of Kuldip Rae Singh, a South Asian medical student at UCLA who appeared on Groucho Marx's _You Bet Your Life_ and became an instant star. Thought he did not do very well on the quiz portion of the popular show, he stole the limelight with his rendition of _Woman in Love_.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VwRtCGP0po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+South Asian American Digital Archive has a [fascinating profile](https://www.saada.org/tides/article/crooner-from-kashmir) on Singh's short-lived entertainment career. Immigration authorities took notice of him after his profile was published in _Life_ magazine. He was deported for violating his visa rules, as he had dropped out of UCLA and was pursuing a career in music.
+
+He soon returned on a visitor visa and embarked on a tour. Sadly not much came of this and his popularity went down. 
+
+Singh resurfaced in Spain in the 60s as a singer. There's also [this website](http://www.kuldip.50megs.com/) with his songs and bio. His last appearance was in 2008, when his songs were [published on YouTube](https://www.youtube.com/channel/UCV1w3qiQ07NG_qFcunh2thQ).
+
+— Geetika 
