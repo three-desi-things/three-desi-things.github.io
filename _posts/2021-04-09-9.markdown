@@ -1,0 +1,69 @@
+---
+layout:         episode
+date:           2021-04-09 11:00:00
+
+title:          "#9: Cricket in the US, the origin of filter coffee, and America&rsquo;s first celebrity chef"
+url:        "9 - cricket-coffee-smile"
+subtitle:   ""
+summary:        "We explore the rich history of cricket in North America. We also talk about some of our personal favorite cricket moments. We take a deep dive into the history of filter coffee and how it became inextricably linked with caste in South India. And finally, we talk about America’s first celebrity chef, a charismatic young man of Indian descent by the name of J. Ranji Smile, who was allegedly responsible, among other things, for teaching the women of America how to properly cook rice."
+
+description:    "We explore the rich history of cricket in North America. We also talk about some of our personal favorite cricket moments. We take a deep dive into the history of filter coffee and how it became inextricably linked with caste in South India. And finally, we talk about America’s first celebrity chef, a charismatic young man of Indian descent by the name of J. Ranji Smile, who was allegedly responsible, among other things, for teaching the women of America how to properly cook rice."
+
+type:           full # "trailer" or "full"
+duration:       "72:28" # audio length in min
+
+explicit:       "no" # other option is yes
+
+block:          "no" # means is shown in iTunes
+
+player_link: "https://www.podbean.com/player-v2/?i=qfmaa-1004022-pb&from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Georgia&skin=2&pfauth=&btn-skin=101"
+
+
+---
+
+{{page.description}}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.0/lazysizes.min.js" integrity="sha512-JrL1wXR0TeToerkl6TPDUa9132S3PB1UeNpZRHmCe6TxS43PFJUcEYUhjJb/i63rSd+uRvpzlcGOtvC/rDQcDg==" crossorigin="anonymous"></script>
+
+
+**Cricket in the US**
+
+Cricket may be the desi-est of all the sports. So, I was surprised to learn that the first international cricket match was played between [Canada and the United States](https://www.espncricinfo.com/story/cricket-in-the-usa-141158) in New York. With almost 10,000 spectators in attendance, it seems that cricket was quite popular in America in the 1800s. John Adams apparently made a mention of the game in his Independence Hall speech.
+
+In fact, [Philadelphia](http://ccmorris.org/cricket-in-philadelphia/) was thought of as the Mecca of cricket in America. This was primarily due to the influx of Lancashire and Yorkshire hosiery and mill workers in the 1840s. This led to 120 or so cricket clubs being established in the Philadelphia area by the First World War. 
+
+Cricket was also popular on the West coast of America, with games being played in Southern California. That&rsquo;s where we found out about [Maneckji Jamshedji Bhumgara](https://scroll.in/magazine/904229/the-indian-bowling-sensation-who-left-american-batsmen-flummoxed-in-the-early-20th-century), a Parsi from Surat, who became a bowling sensation for his Los Angeles league team.
+
+For those of you who understand Urdu, here is the video of a passionate Pakistani cricket fan blaming his team&rsquo;s poor performance on their diet of pizzas, burgers and ice creanms.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne7LF2A_H40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**Filter coffee**
+
+Indians are now known for their tea drinking habits, but India has a distinct kind of coffee that you can&#39;t find in Starbucks - South Indian filter kaapi (also known by many other names). And the culture around it - even to how it&#39;s served has a complicated and troubling history around caste in India.
+
+Filter coffee [is made with coffee powder, boiled milk and sugar](https://food52.com/blog/25751-what-is-south-indian-filter-coffee), that&#39;s very hot (and sweet) and made in its own kind of steel french press if you will - where you leave the coffee powder and water for a while, then add milk and sugar. It&#39;s served in a steel tumbler with another cup while it&#39;s very hot, and it&#39;s poured back and forth in the steel cups by servers in front of you to cool it down.
+
+<figure class="figure__full">
+  <picture class="figure__img">
+    <source data-srcset="../../images/kaapi_1200.jpg" media="(min-width:850px)">
+    <source data-srcset="../../images/kaapi_900.jpg" media="(min-width:400px)">
+    <source data-srcset="../../images/kaapi_600.jpg" media="(min-width:1px)">
+    <img class="lazyload" src="../../images/kaapi_placeholder.jpg"
+      data-srcset="../../images/kaapi_placeholder.jpg" alt="Kapoor family tree" />
+  </picture>
+  <figcaption class="full__caption">Photo credit: Wikipedia</figcaption>
+</figure>
+
+Coffee in India [traces its origins to the early 1600s](https://theculturetrip.com/asia/india/articles/a-brief-history-of-south-indian-filter-coffee/), and lore has it that a Muslim saint brought a few coffee beans surreptitiously out of the Arabian peninsula back to South India. The British started commercializing and expanding the south Indian coffee culture and coffee plantations became widespread in certain parts of Karnataka like Coorg, Kerala and the southern states. [Ind](https://www.jgnt.co/filter-kaapi?s=ck7s18j1q04g10713e14xzq1i)[ia is now the 6th largest produce](https://www.jgnt.co/filter-kaapi?s=ck7s18j1q04g10713e14xzq1i)r of coffee in the world.
+
+By the early 1900s, coffee became the main morning drink in middle class Tamil homes and became[associated as an upper middle class, Brahminical drink](https://books.google.co.in/books?id=tk-KZmcUEvAC&amp;pg=PA25&amp;lpg=PA25&amp;dq#v=onepage&amp;q&amp;f=false). The tumblers used to cool the drink, but the rim of the tumbler was developed to be curved so that [people could drink it without touching their lips to the cup](https://www.jgnt.co/filter-kaapi?s=ck7s18j1q04g10713e14xzq1i) - reflecting the casteism connected to &quot;purity pollution.&quot; In the 1920s, coffee hotels in Tamil Nadu that were common and popular, also discriminated along caste lines by having separate areas for serving upper caste Brahmins. After social reforms, this practice was eventually abolished.
+
+In the mid 1900s, [India Coffee House was created](https://www.jgnt.co/filter-kaapi?s=ck7s18j1q04g10713e14xzq1i)that introduced coffee to northern India as well which started to change the nature of its exclusivity and connection with certain groups only.
+
+**The man who taught America how to make rice?**
+
+America has a long history of celebrity chefs, mostly men whose talent in the kitchen has launched them into superstardom. In researching the early days of Indian restaurants in the United States, I was surprised to find that the first American celebrity chef was a man of Indian descent. [J. Ranji Smile](https://www.ediblebrooklyn.com/2017/historians-renewed-interest-story-chef-j-ranji-smile/) was one of America&#39;s first celebrity chefs and the self-proclaimed &quot;King of Curry Cooks.&quot; At a time in history when Americans were getting excited about Indian [food](https://www.thebetterindia.com/249038/ranji-smile-america-first-celebrity-chef-king-of-curry-cooks-indian-immigrant-karachi-authentic-indian-cuisine-louis-sherry-restaurant-div200/), spices, and stories, Ranji Smile swept in and catered to their appetites for the exotic. He told them far-fetched stories about being born to a royal family in present-day Pakistan as he served them mounds of snowy white rice, &quot;[Muskee Sindh](https://www.vox.com/the-highlight/22158105/ranji-smile-celebrity-chef-indian-food-sarah-lohman),&quot; &quot;Bombay Duck,&quot; and &quot;Lettuce Ceylon.&quot;
+
+Ranji Smile wowed the elite of New York for several years before getting caught up in an [immigration scandal](https://scroll.in/magazine/856532/the-amazing-story-of-the-chef-conman-who-first-made-america-fall-in-love-with-curry) leading him to be let go from Sherry, the NYC restaurant where he was head chef. He then embarked on a tour of the United States, impressing young housewives with a display of his skills in local hotels and department stores. He also sought citizenship (was denied), married several young white women, and became vilified in the media. We explore the racist coverage he faced, his attempts to teach Americans how to cook rice, and the trials of being a brown guy with a dream trying to make it in a very white world.
